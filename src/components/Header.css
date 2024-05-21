@@ -1,0 +1,9 @@
+.header {
+    background-color: #333; /* Boja pozadine headera */
+    color: white; /* Boja teksta */
+    padding: 10px; /* Prostor unutar headera */
+    width: auto; /* Širina headera */
+    position: sticky; /* Postavlja header da bude sticky */
+    top: 0; /* Postavlja header na vrh ekrana */
+    z-index: 1000; /* Postavlja z-index kako bi bio iznad ostalih elemenata */
+  }

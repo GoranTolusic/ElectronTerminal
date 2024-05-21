@@ -1,0 +1,34 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  padding-left: 10px;
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-size: 80%;
+}
+
+.App-meta {
+  color: rgb(204, 69, 7);
+}
+
+.App-meta-command {
+  color: rgb(53, 128, 23);
+}
+
+.App-link {
+  color: #61dafb;
+}
+rgb(255, 255, 255)rgb(255, 255, 255)rgb(255, 255, 255)rgb(219, 91, 5)
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

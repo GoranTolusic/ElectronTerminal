@@ -1,1 +1,1 @@
-# ElectronTerminal
+# Electron Terminal

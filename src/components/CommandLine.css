@@ -1,0 +1,9 @@
+.command-line {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.command-input {
+    width: 100%;
+}
